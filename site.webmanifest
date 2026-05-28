@@ -1,0 +1,15 @@
+{
+  "name": "Kalendo — Norsk kalender",
+  "short_name": "Kalendo",
+  "description": "Norsk kalender med ukenummer, helligdager, flaggdager og merkedager.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f8",
+  "theme_color": "#127a72",
+  "lang": "nb-NO",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
